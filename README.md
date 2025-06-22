@@ -7,8 +7,7 @@
 
 🎨 No frontend, familiaridade com HTML, CSS e JavaScript, desenvolvendo interfaces simples e responsivas.
 
-🛠️ No backend, estudando Java, além de modelagem e integração de bancos de dados PostgreSQL, focando em construir aplicações bem estruturadas.
-
+🛠️ No backend, estudando Java, além de modelagem e integração de bancos de dados MySQL, focando em construir aplicações bem estruturadas.
 
 🚀 Cursando o 3º semestre de Engenharia de Software na Univates, aplico meus conhecimentos diariamente em projetos práticos. Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de alto desempenho.
 
