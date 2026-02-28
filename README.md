@@ -47,23 +47,17 @@ Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=GustavoBorba-aa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-  />
-  <img 
-    height="170em"
-    src="https://streak-stats.demolab.com?user=GustavoBorba-aa&theme=radical"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoBorba-aa&theme=radical"/>
 </p>
 
 <p align="center">
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorba-aa&layout=compact&theme=radical"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoBorba-aa&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoBorba-aa&theme=radical"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoBorba-aa&theme=radical"/>
+</p>
 ---
 
 ## 🏆 Troféus
