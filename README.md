@@ -58,18 +58,13 @@ Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoBorba-aa&theme=radical"/>
 </p>
+
 ---
 
 ## 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoBorba-aa&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GustavoBorba-aa&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
----
 
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoBorba-aa&theme=radical"/>
-</p>
