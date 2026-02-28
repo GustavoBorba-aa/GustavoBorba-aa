@@ -42,13 +42,14 @@
 
 ---
 
+
 ### 📊 Estatísticas do GitHub
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoBorba-aa&theme=radical&show_icons=true&hide_border=true&count_private=true&title_color=00ffea&icon_color=00ffea&text_color=ffffff&bg_color=00000000" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBorba-aa&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff3300&stroke=ffffff&ring=00ffea&background=00000000" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBorba-aa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=GustavoBorba-aa&theme=radical"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorba-aa&theme=radical&hide_border=true&layout=compact&langs_count=5&title_color=00ffea&text_color=ffffff&bg_color=00000000" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorba-aa&layout=compact&theme=radical"/>
 </p>
