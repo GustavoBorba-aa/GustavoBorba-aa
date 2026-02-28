@@ -48,19 +48,19 @@ Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de
 
 <p align="center">
   <img 
-    height="170em" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoBorba-aa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api?username=GustavoBorba-aa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
   />
   <img 
-    height="170em" 
-    src="https://streak-stats.demolab.com?user=GustavoBorba-aa&theme=radical&hide_border=true"
+    height="170em"
+    src="https://streak-stats.demolab.com?user=GustavoBorba-aa&theme=radical"
   />
 </p>
 
 <p align="center">
   <img 
-    height="170em" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoBorba-aa&layout=compact&theme=radical&hide_border=true"
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorba-aa&layout=compact&theme=radical"
   />
 </p>
 
@@ -77,5 +77,5 @@ Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de
 ## 📈 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoBorba-aa&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoBorba-aa&theme=radical"/>
 </p>
