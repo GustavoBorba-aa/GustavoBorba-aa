@@ -4,7 +4,7 @@
 
 💻 Desenvolvedor em formação, focado em **Java** e **Spring Boot**, buscando aprimorar habilidades e ganhar experiência prática na área.
 
-🚀 Cursando o 5º semestre de Engenharia de Software na Univates, aplico meus conhecimentos diariamente em projetos práticos.  
+🚀 Cursando o 6º semestre de Engenharia de Software na Univates, aplico meus conhecimentos diariamente em projetos práticos.  
 Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de alto desempenho.
 
 ---
