@@ -34,6 +34,7 @@ Comprometido com aprendizado contínuo, inovação e soluções tecnológicas de
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://jsdelivr.net" width="40"/>
 </p>
 
 ### ⚙️ Ferramentas
