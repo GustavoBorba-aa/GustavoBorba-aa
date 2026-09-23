@@ -11,7 +11,8 @@ Atuo com **suporte de sistemas** e desenvolvimento, buscando unir tecnologia e s
 ## 🗄️ Bancos de dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,supabase" alt="PostgreSQL, MySQL, Oracle e Supabase"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" alt="PostgreSQL, MySQL e Supabase"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
 </p>
 
 ## ⚙️ Ferramentas
@@ -23,7 +24,7 @@ Atuo com **suporte de sistemas** e desenvolvimento, buscando unir tecnologia e s
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-borba-076039223/" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-borba-076039223/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:gustavoborbavts@gmail.com">
@@ -37,5 +38,3 @@ Atuo com **suporte de sistemas** e desenvolvimento, buscando unir tecnologia e s
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoBorba-aa&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorba-aa&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
-
-
