@@ -1,6 +1,8 @@
-# 🚀 Olá, eu sou o Gustavo Borba 👋
+# 💻 Gustavo Borba
 
-Suporte de Sistemas • Desenvolvimento
+**Estudante de Engenharia de Software na Univates · 6º semestre**
+
+Atualmente, trabalho no setor de desenvolvimento da **Cooperativa Languiru**, atuando com suporte a sistemas e desenvolvimento de software.
 
 <br>
 
