@@ -1,17 +1,23 @@
-## 👋 Sobre mim
+## 👨‍💻 Sobre mim
 
-Atuo com **suporte de sistemas** e desenvolvimento, trabalhando com Java e Spring. Gosto de aprender continuamente e criar soluções que facilitem o dia a dia dos usuários.
+Atuo com **suporte de sistemas** e desenvolvimento, buscando unir tecnologia e solução de problemas para melhorar a experiência dos usuários.
 
-## 🛠️ Tecnologias e ferramentas
+## 💻 Linguagens e frameworks
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts" alt="Java, Spring, JavaScript e TypeScript"/>
+</p>
+
+## 🗄️ Bancos de dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" alt="PostgreSQL, MySQL e Oracle"/>
+</p>
+
+## ⚙️ Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git" alt="Docker e Git"/>
 </p>
 
 ## 🌐 Conecte-se comigo
@@ -28,11 +34,10 @@ Atuo com **suporte de sistemas** e desenvolvimento, trabalhando com Java e Sprin
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoBorba-aa&theme=radical" alt="Resumo do perfil GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoBorba-aa&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9" height="170" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorba-aa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" height="170" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoBorba-aa&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoBorba-aa&theme=radical" alt="Linguagens por repositório"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoBorba-aa&theme=radical" alt="Linguagem com mais commits"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GustavoBorba-aa&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF00E6&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" alt="Sequência de contribuições no GitHub"/>
 </p>
