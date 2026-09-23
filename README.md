@@ -1,4 +1,10 @@
-<h1 align="center">Olá, eu sou Gustavo Borba</h1>
+<h1 align="center">Olá, eu sou Gustavo Borba 👋</h1>
+
+<p align="center">
+  Suporte de sistemas • Desenvolvimento
+</p>
+
+<hr/>
 
 <h2 align="center">💻 Linguagens e frameworks</h2>
 
@@ -12,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="TypeScript"/>
 </div>
 
+<br/>
+
 <h2 align="center">🗄️ Bancos de dados</h2>
 
 <div align="center">
@@ -23,6 +31,8 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" alt="Oracle"/>
 </div>
+
+<br/>
 
 <h2 align="center">🛠️ Ferramentas</h2>
 
@@ -36,17 +46,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
 </div>
 
+<br/>
+
 <h2 align="center">🌐 Conecte-se comigo</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-borba-076039223/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:gustavoborbavts@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/>
   </a>
 </div>
+
+<br/>
+
+<hr/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -60,11 +76,13 @@
 
 <div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoBorba-aa&theme=github_dark" alt="Resumo do perfil GitHub"/>
-  &nbsp;
+  &nbsp;&nbsp;
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoBorba-aa&theme=github_dark" alt="Linguagens por repositório"/>
 </div>
 
 <br/>
+
+<hr/>
 
 <div align="center">
   <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Ayrton_Senna_9.jpg" alt="Ayrton Senna"/>
