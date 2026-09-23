@@ -31,13 +31,11 @@ Atuo com **suporte de sistemas** e desenvolvimento, buscando unir tecnologia e s
   </a>
 </p>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GustavoBorba-aa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9" alt="Estatísticas do GitHub"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorba-aa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Linguagens mais usadas"/>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoBorba-aa&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorba-aa&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBorba-aa&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF00E6&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" alt="Sequência de contribuições"/>
-</p>
+
