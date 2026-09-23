@@ -1,40 +1,71 @@
-## 👨‍💻 Sobre mim
+<h1 align="center">Olá, eu sou Gustavo Borba</h1>
 
-Atuo com **suporte de sistemas** e desenvolvimento, buscando unir tecnologia e solução de problemas para melhorar a experiência dos usuários.
+<h2 align="center">💻 Linguagens e frameworks</h2>
 
-## 💻 Linguagens e frameworks
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="Spring"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="TypeScript"/>
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts" alt="Java, Spring, JavaScript e TypeScript"/>
-</p>
+<h2 align="center">🗄️ Bancos de dados</h2>
 
-## 🗄️ Bancos de dados
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" alt="Oracle"/>
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" alt="PostgreSQL, MySQL e Supabase"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
-</p>
+<h2 align="center">🛠️ Ferramentas</h2>
 
-## ⚙️ Ferramentas
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" alt="Docker, Git, GitHub e Postman"/>
-</p>
+<h2 align="center">🌐 Conecte-se comigo</h2>
 
-## 🌐 Conecte-se comigo
-
-<p align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavo-borba-076039223/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:gustavoborbavts@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/>
   </a>
-</p>
+</div>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoBorba-aa&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorba-aa&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
+<div align="center">
+  <a href="https://github.com/GustavoBorba-aa">
+    <img height="165" src="https://streak-stats.demolab.com?user=GustavoBorba-aa&locale=pt_BR&theme=codeSTACKr&hide_border=false" alt="Sequência de contribuições"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoBorba-aa&theme=github_dark" alt="Resumo do perfil GitHub"/>
+  &nbsp;
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoBorba-aa&theme=github_dark" alt="Linguagens por repositório"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Ayrton_Senna_9.jpg" alt="Ayrton Senna"/>
+</div>
